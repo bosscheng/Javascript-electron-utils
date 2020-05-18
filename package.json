@@ -1,0 +1,10 @@
+{
+  "name": "Javascript-electron-utils",
+  "version": "1.0.0",
+  "dependencies": {
+    "ylru": "^1.2.1",
+    "urllib": "^2.35.0",
+    "agentkeepalive": "^4.1.2"
+
+  }
+}

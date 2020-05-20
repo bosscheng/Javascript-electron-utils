@@ -53,6 +53,7 @@ const logger = function (options = {}) {
 
                     const url = '/electron/log';
 
+                    // request
                     httpClient.request(url, {
                         method: 'POST',
                         contentType: "json",

@@ -4,7 +4,9 @@
   "dependencies": {
     "ylru": "^1.2.1",
     "urllib": "^2.35.0",
-    "agentkeepalive": "^4.1.2"
-
+    "agentkeepalive": "^4.1.2",
+    "winston": "^3.2.1",
+    "winston-daily-rotate-file": "^4.4.2",
+    "winston-transport": "^4.3.0"
   }
 }
